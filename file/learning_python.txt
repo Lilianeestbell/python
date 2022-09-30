@@ -1,0 +1,5 @@
+In Python you can learn list/object
+In Python you can learn class
+In Python you can learn number
+In Python you can learn file reading
+In Python you can learn if and while and input
